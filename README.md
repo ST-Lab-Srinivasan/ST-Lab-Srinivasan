@@ -1,16 +1,17 @@
-## Hi there 👋
+Software Testing & AI Research Lab (ST-Lab-Srinivasan)
 
-<!--
-**ST-Lab-Srinivasan/ST-Lab-Srinivasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to our lab at East Carolina University led by Dr. Madhusudan Srinivasan. Our research is centered on advancing trustworthy and equitable AI systems through rigorous software engineering methods.
 
-Here are some ideas to get you started:
+🔍 Our Research Areas
+- Fairness testing of machine learning models
+- Metamorphic and mutation testing
+- Test case prioritization and robustness testing
+- AI for improving software testing efficiency
+- AI for healthcare and education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑‍🤝‍🧑 Collaboration and Mentorship
+We mentor undergraduate and graduate students and welcome interdisciplinary collaboration in AI, software testing, and digital health.
+
+📫 Contact
+Dr. Madhusudan Srinivasan  
+Email: srinivasanm@ecu.edu  
